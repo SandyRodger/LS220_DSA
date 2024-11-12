@@ -1,0 +1,32 @@
+To talk about:
+
+- what are logorithms and how to think about them.
+- 3 possible paths:
+  - rush to capstone
+    - Advantages:
+      - Great job,
+      - better prospects
+      - The advantages list is short, but these points will ripple out and have exponential effects on my whole life.
+    - Disadvantages:
+      - rush material
+      - if i get such a job it will be throwing me in the deep-end
+      - There's a chance I won't be accepted to Capstone:
+        -  (criminal record,
+        -  UK based,
+        -  taken too long,
+        -  grades not exemplary)
+      -  Living out of kilter with normal diurnal rhythms would be doable, but costly.
+      -  I would have to lean more on my parents for financial support
+      -  The disadvantages list is long, but they are all short term and would be worth it if I make it to the end of Capstone.
+  - apply immediately for jobs
+    - advantages:
+      - I need a job + money
+    - disadvantages:
+      - Undermines the point of launch school to take ones time and start one's career as one means to go on
+  - push for the end and then apply for jobs.
+      - advantages:
+        - a middle path between two extremes
+        - If I want to improve my prospects there are other ways than capstone.
+      - Disadvantages:
+        - Miss capstone
+        - Still probably need to lean on parents for more financial support.
