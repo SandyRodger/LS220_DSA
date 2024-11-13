@@ -31,3 +31,7 @@ To talk about:
       - Disadvantages:
         - Miss capstone
         - Still probably need to lean on parents for more financial support.
+4. Compromise now, but continue to aim for capstone-like results with other resources like csprimer.
+
+- How much of this DSA stuff do you think about on a daily basis?
+- How much of it was applicable to your first coding job
