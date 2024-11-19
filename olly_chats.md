@@ -35,3 +35,11 @@ To talk about:
 
 - How much of this DSA stuff do you think about on a daily basis?
 - How much of it was applicable to your first coding job
+
+
+20.11.24:
+
+- Can I use my calorie counter as a portfolio project.
+- Reasons I'm hesitant to apply for coding jobs:
+ - no portfolio.
+ - shaky memory of previous modules.
