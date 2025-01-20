@@ -1,5 +1,7 @@
 # LS220_DSA
 
+- I need to re-do the dynamic programming exercises [here](https://launchschool.com/lessons/6165017e) because I couldn't get through any of them
+
 ## DSA book:
 
 # [data structures and algorithms](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#data-structures-and-algorithms)
