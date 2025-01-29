@@ -307,3 +307,21 @@ Remember, practice is key to mastering these concepts. Try implementing both app
     - create a cache called dp (usually an array mirroring the input, filled with 0)
     - Use for loops to set the values in dp, building on previous answers
     - return the last element in dp
+
+
+## 2nd pass on problems:
+
+| topic | problem  | 1st |2nd| 3rd |
+| :--- | :---: | :---: | :---: | 
+| L2: Stacks | Maximum Rainwater |
+| | shortest subarray length for target sum |
+| | Rooms |
+| | longest substring without duplicates |
+| L3: Binary search |
+| L4: Linked Lists |
+| L5: Stacks |
+| L6: Dynamic Programing |
+| L7: Backtracking |
+| L8: Binary Trees |
+| L9: Graphs |
+| L10: Misc |
