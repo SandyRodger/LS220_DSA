@@ -1,6 +1,6 @@
-##### DSA book:
+# DSA book:
 
-##### [data structures and algorithms](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####data-structures-and-algorithms)
+##### [data structures and algorithms](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md)#####data-structures-and-algorithms)
 ##### [Introduction](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####introduction)
 ##### [How DSA gives you an edge](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####how-dsa-gives-you-an-edge)
 #### [Technical interviews: many focus on DSA](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####technical-interviews-many-focus-on-dsa)
