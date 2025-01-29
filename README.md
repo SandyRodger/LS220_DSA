@@ -311,17 +311,40 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 
 ## 2nd pass on problems:
 
+(6, 7 and 9 are not on assessment)
+
 | topic | problem  | 1st |2nd| 3rd |
-| :--- | :---: | :---: | :---: | 
+| :--- | :---: | :---: | :---: | :---: | 
 | L2: Stacks | Maximum Rainwater |
 | | shortest subarray length for target sum |
 | | Rooms |
 | | longest substring without duplicates |
-| L3: Binary search |
-| L4: Linked Lists |
-| L5: Stacks |
-| L6: Dynamic Programing |
-| L7: Backtracking |
-| L8: Binary Trees |
-| L9: Graphs |
-| L10: Misc |
+| L3: Binary search | Find Truck Capacity |
+|| Find the maximum in a rotated array |
+|| Shortest subarray with target sum - O(NlogN) |
+|| Find truck capacity | 
+| L4: Linked Lists | Remove Duplicates |
+|| remove a segment of a linked list |
+|| remove penultimate element |
+|| reordered linked list |
+| L5: Stacks | Nexus Surge Game |
+|| calculator |
+|| Binary tree preorder traversal |
+|| binary tree inorder traversal |
+|| Binary tree postOrder traversal |
+| L6: Dynamic Programing | Maximum Treasure |
+|| longest shared subsequence |
+|| maximising loot |
+| L7: Backtracking | sum combinations |
+|| All palindrome partitions |
+|| generate all subsets |
+| L8: Binary Trees | Calculate path sum |
+|| Transform binary tree to linked list |
+|| visible nodes from the right |
+| L9: Graphs | Forest Expansion |
+|| Water flow |
+|| wilting roses |
+| L10: Misc | Spiral traversal |
+|| merge overlapping intervals |
+|| Exclusive product array |
+
