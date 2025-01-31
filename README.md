@@ -99,6 +99,27 @@
 ##### [Intro to Stacks and Queues](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####intro-to-stacks-and-queues)
 #### [Core Characteristics](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####core-characteristics)
 ##### [Stacks](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####stacks)
+
+Claude.ai on when a problem is hinting it might need a stack:
+
+This problem is an excellent candidate for a stack-based solution. Let me explain why:
+Stack Solution Indicators:
+
+Need to find "next greater element" sequentially
+Processing elements from right to left
+Requires efficient tracking of potential greater elements
+Requires constant-time lookup and removal of elements
+
+Next Greater Element Stack SolutionClick to open code
+Key Stack Advantages:
+
+O(n) time complexity
+Single pass through array
+Efficient element tracking
+Constant-time operations
+
+The stack allows us to efficiently track and find the next greater element by maintaining a decreasing sequence of elements.
+
 #### [Key operations](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####key-operations)
 #### [Practical Applications of Stacks](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####practical-applications-of-stacks)
 #### [Function call management](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####function-call-management)
