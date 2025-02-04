@@ -334,26 +334,29 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 
 (6, 7 and 9 are not on assessment)
 
-| topic | problem  | 1st |2nd| 3rd |
-| :--- | :---: | :---: | :---: | :---: | 
-| L2: Stacks | Maximum Rainwater |
+| topic | problem  |2nd| 3rd | 
+| :--- | :---: | :---: | :---: |
+| 1st book | LL as a stack | 3.2.25 |
+| | range of threes| 3.2.25 |
+| 2nd book |
+| L2: Stacks | Maximum Rainwater | 3.2.25 - easy|
 | | shortest subarray length for target sum |
 | | Rooms |
 | | longest substring without duplicates |
 | L3: Binary search | Find Truck Capacity |
-|| Find the maximum in a rotated array |
+|| Find the maximum in a rotated array | 4.2.25 - (21 mins |
 || Shortest subarray with target sum - O(NlogN) |
 || Find truck capacity | 
-| L4: Linked Lists | Remove Duplicates |
+| L4: Linked Lists | Remove Duplicates | 3.2.25 tricky, but I got there in < 2hrs |
 || remove a segment of a linked list |
 || remove penultimate element |
 || reordered linked list |
-| L5: Stacks | Nexus Surge Game |
+| L5: Stacks | Nexus Surge Game | 3.2.25 (30 mins ) |
 || calculator |
 || Binary tree preorder traversal |
 || binary tree inorder traversal |
 || Binary tree postOrder traversal |
-| L6: Dynamic Programing | Maximum Treasure |
+| L6: Dynamic Programing | Maximum Treasure | 4.2.25 |
 || longest shared subsequence |
 || maximising loot |
 | L7: Backtracking | sum combinations |
@@ -361,7 +364,7 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 || generate all subsets |
 | L8: Binary Trees | Calculate path sum |
 || Transform binary tree to linked list |
-|| visible nodes from the right |
+|| visible nodes from the right | 4.2.25 (couldn't finish) |
 | L9: Graphs | Forest Expansion |
 || Water flow |
 || wilting roses |
@@ -369,3 +372,27 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 || merge overlapping intervals |
 || Exclusive product array |
 
+I must practice:
+
+- Binary trees:
+  - Inserting nodes
+  - Checking if it's balanced
+  - returning diameter
+  - returning height
+  - level order traversal
+    -  (https://launchschool.com/lessons/bb36c4cc/assignments/d747ae60)
+    -  (https://launchschool.com/books/advanced_dsa/read/level_order_traversal#problemdescription)
+- Talking about time complexities of my solutions
+  - identifying which algorithm(s) is implied by which time complexity
+- Writing recursive definitions
+- Working with Maps and Sets
+- QuickSort (with recursion!?) => this is making me want to cut off my own dick.
+
+Questions:
+
+- Is binary search the only one with O(logN) ?
+
+Areas of overlap:
+
+- Linked lsits are Dynamic objects, but not "dynamic programming"
+- DnC and DP both involve breaking down a problem into a collection of subProblems (with recursion) and then combining the answer.
