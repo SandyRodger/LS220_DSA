@@ -338,6 +338,7 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 | :--- | :---: | :---: | :---: |
 | 1st book | LL as a stack | 3.2.25 |
 | | range of threes| 3.2.25 |
+|| reverse consonants (start/end) | 5.2.25 |
 | 2nd book |
 | L2: Stacks | Maximum Rainwater | 3.2.25 - easy|
 | | shortest subarray length for target sum |
@@ -358,7 +359,7 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 || Binary tree postOrder traversal |
 | L6: Dynamic Programing | Maximum Treasure | 4.2.25 |
 || longest shared subsequence |
-|| maximising loot |
+|| maximising loot | 5.2.25 (peeked)|
 | L7: Backtracking | sum combinations |
 || All palindrome partitions |
 || generate all subsets |
@@ -387,12 +388,19 @@ I must practice:
 - Writing recursive definitions
 - Working with Maps and Sets
 - QuickSort (with recursion!?) => this is making me want to cut off my own dick.
+- when a variable should be a const. (I'm using let variables univeraslly).
 
 Questions:
 
 - Is binary search the only one with O(logN) ?
 
-Areas of overlap:
+Mind-fucks:
 
 - Linked lsits are Dynamic objects, but not "dynamic programming"
 - DnC and DP both involve breaking down a problem into a collection of subProblems (with recursion) and then combining the answer.
+- The top-down solution for grid based DP problems involves starting from the bottom, but the bottom-up solution involves starting from the top and working downwards.
+
+Ideas:
+
+- Key question:
+  - what is the smallest, simplest version of  this problem. What is the one-string harp.
