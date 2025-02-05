@@ -360,7 +360,7 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 | L6: Dynamic Programing | Maximum Treasure | 4.2.25 |
 || longest shared subsequence |
 || maximising loot | 5.2.25 (peeked)|
-| L7: Backtracking | sum combinations |
+| L7: Backtracking | sum combinations | 5.2.25 (completed in an hour, used chatGPT to find 2 bugs
 || All palindrome partitions |
 || generate all subsets |
 | L8: Binary Trees | Calculate path sum |
