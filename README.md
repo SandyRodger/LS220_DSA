@@ -363,6 +363,7 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 | L7: Backtracking | sum combinations | 5.2.25 (completed in an hour, used chatGPT to find 2 bugs
 || All palindrome partitions |
 || generate all subsets |
+|| lowest common ancestor (chatGPT) | 6.4.25 |
 | L8: Binary Trees | Calculate path sum |
 || Transform binary tree to linked list |
 || visible nodes from the right | 4.2.25 (couldn't finish) |
@@ -403,4 +404,6 @@ Mind-fucks:
 Ideas:
 
 - Key question:
-  - what is the smallest, simplest version of  this problem. What is the one-string harp.
+
+   - what is the smallest, simplest version of  this problem. What is the one-string harp.
+   - It's a solution, but is it DSA?
