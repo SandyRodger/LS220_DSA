@@ -394,6 +394,7 @@ I must practice:
 Questions:
 
 - Is binary search the only one with O(logN) ?
+- What is the difference between a terminal condition and a dead end in back-tracking.
 
 Mind-fucks:
 
