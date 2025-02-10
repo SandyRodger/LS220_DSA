@@ -340,11 +340,11 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 | | range of threes| 3.2.25 |
 || reverse consonants (start/end) | 5.2.25 |
 | 2nd book |
-| L2: Stacks | Maximum Rainwater | 3.2.25 - easy|
+| L2: Pointer- based mental models | Maximum Rainwater | 3.2.25 - easy|
 | | shortest subarray length for target sum |
 | | Rooms |
-| | longest substring without duplicates |
-| L3: Binary search | Find Truck Capacity |
+| | longest substring without duplicates | 10.2.25 (1 hour) |
+| L3: Binary search | Find Truck Capacity | 10.2.25 (90 minutes, fail, quagmire) |
 || Find the maximum in a rotated array | 4.2.25 - (21 mins |
 || Shortest subarray with target sum - O(NlogN) |
 || Find truck capacity | 
@@ -402,6 +402,7 @@ Mind-fucks:
 - Linked lsits are Dynamic objects, but not "dynamic programming"
 - DnC and DP both involve breaking down a problem into a collection of subProblems (with recursion) and then combining the answer.
 - The top-down solution for grid based DP problems involves starting from the bottom, but the bottom-up solution involves starting from the top and working downwards.
+- The dead-end and the terminal condition in backtracking are not the same thing.
 
 Ideas:
 
