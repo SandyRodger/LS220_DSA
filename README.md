@@ -332,7 +332,15 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 
 ## 2nd pass on problems:
 
-(6, 7 and 9 are not on assessment)
+(6 (DP), 7 (backtracking) and 9 (graphs) are not on the assessment)
+
+which means I need to be good at:
+
+- 2 pointers
+- Binary search
+- Linked lists
+- Stacks
+- Binary trees
 
 | topic | problem  |2nd| 3rd | 
 | :--- | :---: | :---: | :---: |
@@ -365,7 +373,7 @@ Remember, practice is key to mastering these concepts. Try implementing both app
 || generate all subsets |
 || lowest common ancestor (chatGPT) | 6.4.25 |
 || tripleSum| 12.2.25 (90 mins - got stuck in debugging. 1st go) |
-| L8: Binary Trees | Calculate path sum |
+| L8: Binary Trees | Calculate path sum | 14.2.25 |
 || Transform binary tree to linked list |
 || visible nodes from the right | 4.2.25 (couldn't finish) |
 | L9: Graphs | Forest Expansion |
@@ -411,3 +419,6 @@ Ideas:
 
    - what is the smallest, simplest version of  this problem. What is the one-string harp.
    - It's a solution, but is it DSA?
+
+Things I must have memorized before I do the assessment:
+
