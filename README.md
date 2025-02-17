@@ -11,7 +11,7 @@
 #### [sorting algorithms](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####sorting-algorithms)
 #### [algorithm techniques](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####algorithm-techniques)
 #### [essential data structures](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####essential-data-structures)
-#### [practice for mastery](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####practice-for-mastery)
+#### [practice for mastery](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithmsx.md#####practice-for-mastery)
 #### [going deeper](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####going-deeper)
 #### [let's get started](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####lets-get-started)
 ##### [the pedac approach to problem solving](https://github.com/SandyRodger/launch_school_books/blob/main/data_structures_and_algorithms.md#####the-pedac-approach-to-problem-solving)
@@ -386,7 +386,7 @@ which means I need to be good at:
 I must practice:
 
 - Binary trees:
-  - Inserting nodes
+  - Inserting nodes - tick
   - Checking if it's balanced
   - returning diameter
   - returning height
@@ -396,7 +396,7 @@ I must practice:
 - Talking about time complexities of my solutions
   - identifying which algorithm(s) is implied by which time complexity
 - Writing recursive definitions
-- Working with Maps and Sets
+- Working with Maps and Sets - tick
 - QuickSort (with recursion!?) => this is making me want to cut off my own dick.
 - when a variable should be a const. (I'm using let variables univeraslly).
 
@@ -412,6 +412,7 @@ Mind-fucks:
 - DnC and DP both involve breaking down a problem into a collection of subProblems (with recursion) and then combining the answer.
 - The top-down solution for grid based DP problems involves starting from the bottom, but the bottom-up solution involves starting from the top and working downwards.
 - The dead-end and the terminal condition in backtracking are not the same thing.
+- Binary tree and binary search tree are different things
 
 Ideas:
 
