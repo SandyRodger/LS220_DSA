@@ -61,5 +61,26 @@ Hopefully, this feedback helps you focus your preparation moving forward. In add
       -  each incrementation of start end you subtract start and add end, without having to recalculate the numbers in between.
   3. Two sum less than target
     - You had to sort it. You had to bloody well sort it. The lesson it to methodically and assiduously challenge your first suppositions.
+  4. Count pairs. Here there is a counter intuitive while loop which increments the result every single iteration and if the right meets the left resets the right back to the length - 1:
+
+```javascript
+function countPairs(array, target) {
+  let right = array.length - 1;
+  let left = array.length - 2;
+  let counter = 0;
+
+  while (array[left] + array[right] > target) {
+    counter++;
+    right--;
+    if (left === right) {
+      left--;
+      right = array.length - 1;
+    }
+  }
+
+  return counter
+}
+```
+
 - Binary Search
 - Stacks
