@@ -33,10 +33,33 @@ Hopefully, this feedback helps you focus your preparation moving forward. In add
 -	Have a set PEDAC process. You had this for LS216 and since then you’ve gotten more relaxed with it.
 -	Re-commit to the 30 second eye-close. You can do it twice.
 
-#### Prep plan:
+## Prep plan:
 
-List of techniques
+### List of problems solved since the first attempt
 
-List of problems to solve
+- 01_binary_tree_eddie_1.js
+- 02_recursive_interleavings.js
+- 03_bin_tree_with_eddie.js
+- 04_sum_even_nodes_in_bin_tree.js
+- 05_celebrity_problem.js
+- 06_build_a_tree.js
 
+### List of problems to solve
 
+### List of techniques
+
+- Linked Lists
+- Binary trees
+- Two Pointers
+  1. How to reverse words in a string sentence without .split()
+    - while index is less than string length
+      - when `index` is reaches a space. Save that as word end
+      - Then decrement index back to the last wordStart with a 2nd while loop, pushing those chars into `output`
+      - Then increment back to `wordEnd` with a 3rd while loop
+  2. calculating the sum of a moving window in an array
+      -  find the sum
+      -  each incrementation of start end you subtract start and add end, without having to recalculate the numbers in between.
+  3. Two sum less than target
+    - You had to sort it. You had to bloody well sort it. The lesson it to methodically and assiduously challenge your first suppositions.
+- Binary Search
+- Stacks
