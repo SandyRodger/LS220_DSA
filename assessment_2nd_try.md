@@ -93,6 +93,7 @@ Common traps:
   - linked lists:
     - you might need a dummy node
     - Nodes next properties could point backwards.
+    - Pay attention to if they want you to return a modified version of the OG list - they often do.
   - 2 pointers:
     - you might need to sort it
   - Binary search:
