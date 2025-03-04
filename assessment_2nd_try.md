@@ -83,4 +83,18 @@ function countPairs(array, target) {
 ```
 
 - Binary Search
-- Stacks
+
+1.  Search in a sorted nested array -> Demonstrates the importance of modelling each iteratiion down to the niceest detail, even though it feels like a slower way of doing things. Control yourself.
+  - also one of the bugs was (in fact it happened more than once) was having more than one name for variables. There was l1 and left. There was nums and input. Be consistent with name.s In fact you may even want to have a names section wihtin the P part of the pedac. Also maybe as a part of D : where can I test this?
+
+- Stack
+
+Common traps:
+  - linked lists:
+    - you might need a dummy node
+    - Nodes next properties could point backwards.
+  - 2 pointers:
+    - you might need to sort it
+  - Binary search:
+    - you might be binary searching something other than the collection they've given you
+  - Stack & queues
