@@ -49,6 +49,7 @@ Hopefully, this feedback helps you focus your preparation moving forward. In add
 ### List of techniques
 
 - Linked Lists
+  - Merge sorted lists: The difficulty is dealing with differently sized lists, because when one list has been emptied, it's pointer will equal null and therefore comparison will raise an exception. So you can use if statements to guad against that. However the LS solution shows that once one list is empty  you cam simply attach the head node from the remaining list, because it's chain of connections is as it should be in the output.
 - Binary trees
 - Two Pointers
   1. How to reverse words in a string sentence without .split()
@@ -99,3 +100,7 @@ Common traps:
   - Binary search:
     - you might be binary searching something other than the collection they've given you
   - Stack & queues
+- One of the things that derails you is changing the names of things unthinkingly as you write.
+
+- do check for empty input
+- 
